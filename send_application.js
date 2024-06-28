@@ -8,7 +8,7 @@ const {
   calculateSimilarity,
   getMostSimilarQuestion,
   normalizeAndTokenize
-} = require('./utils');
+} = require('./utils_numeric');
 
 //------------------------------------------------1.Numeric response HANDLER-------------------------
 
